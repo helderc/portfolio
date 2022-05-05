@@ -1,10 +1,10 @@
-# BeeImages
+# BeeImage
 
 > **Status: Work in progress**
 
 > Based on DataCamp's Naive Bees project: https://app.datacamp.com/learn/projects/412
 
-The dataset BeeImages (https://www.kaggle.com/datasets/jenny18/honey-bee-annotated-images) was used instead.
+The BeeImage dataset (https://www.kaggle.com/datasets/jenny18/honey-bee-annotated-images) was used instead.
 
 Vizualize the Jupyter Notebook here: https://nbviewer.org/github/helderc/portfolio/blob/main/BeeImage/beeimg_hog_pca.ipynb
 
